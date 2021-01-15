@@ -78,28 +78,28 @@ if __name__ == "__main__":
 
 ### [Part 1: Basics](https://www.mmhaskell.com/haskell-data/basics)
 
-* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/haskell/Basic.hs)
-* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/java/Basic.java)
-* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/python/Basic.py)
+* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/master/haskell/Basic.hs)
+* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/master/java/Basic.java)
+* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/master/python/Basic.py)
 
 ### [Part 2: Sum Types](https://www.mmhaskell.com/haskell-data/sum-types)
 
-* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/haskell/Multi.hs)
-* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/java/Multi.java)
-* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/python/Multi.py)
+* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/master/haskell/Multi.hs)
+* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/master/java/Multi.java)
+* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/master/python/Multi.py)
 
 ### [Part 3: Parameterized Types](https://www.mmhaskell.com/haskell-data/parameterized)
 
-* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/haskell/Parameterized.hs)
-* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/java/Parameterized.java)
-* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/python/Parameterized.py)
+* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/master/haskell/Parameterized.hs)
+* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/master/java/Parameterized.java)
+* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/master/python/Parameterized.py)
 
 ### [Part 4: Inheritance and Typeclasses](https://www.mmhaskell.com/haskell-data/inheritance)
 
-* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/haskell/Inheritance.hs)
-* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/java/Inheritance.java)
-* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/python/Inheritance.py)
+* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/master/haskell/Inheritance.hs)
+* [Java](https://github.com/MondayMorningHaskell/HaskellData/blob/master/java/Inheritance.java)
+* [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/master/python/Inheritance.py)
 
 ### [Part 5: Type Families](https://www.mmhaskell.com/haskell-data/type-families)
 
-* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/haskell/Inheritance.hs)
+* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/master/haskell/Inheritance.hs)
