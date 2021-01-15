@@ -1,5 +1,3 @@
--- TODO Update data4 for details on Java inheritance, Python Inheritance (won't go into details).
-
 # HaskellData
 
 This is the companion Github repository for the [Haskell Data Series](https://www.mmhaskell.com/haskell-data) on Monday Morning Haskell! This series compares the basic construction of data types in Haskell, Java, and Python, so it has code samples in all three languares:
@@ -103,3 +101,5 @@ if __name__ == "__main__":
 * [Python](https://github.com/MondayMorningHaskell/HaskellData/blob/python/Inheritance.py)
 
 ### [Part 5: Type Families](https://www.mmhaskell.com/haskell-data/type-families)
+
+* [Haskell](https://github.com/MondayMorningHaskell/HaskellData/blob/haskell/Inheritance.hs)
